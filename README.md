@@ -4,6 +4,5 @@ and their benefits. Built using only HTML, CSS, and JavaScript, this website pro
 interactive and visually appealing platform for users to learn more about different vegetables, 
 their nutritional values, and how they contribute to a healthy lifestyle.[Link](https://baghrai-beshra.github.io/VegitableWebsite/)
 
-
-[Google site](https://vegitableappdemo.netlify.app/)
-#### here i used netlify
+### we can see in google 
+[site](https://vegitableappdemo.netlify.app/)
